@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **6nohx1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FvL9vftahG43D0izZJ6T3urRmM4TsNWeUk5MFLUhn2Y/edit?usp=sharing](https://docs.google.com/document/d/1r_MVm4xiGrvHaxzUe4GBc9_KB9-oMyO9bOjG51-JG4o/edit?usp=sharing)
+- 📄 Know about my experiences through this link \/ \/ \/ [https://docs.google.com/document/d/1FvL9vftahG43D0izZJ6T3urRmM4TsNWeUk5MFLUhn2Y/edit?usp=sharing](https://docs.google.com/document/d/1r_MVm4xiGrvHaxzUe4GBc9_KB9-oMyO9bOjG51-JG4o/edit?usp=sharing)
 
 - ⚡ Fun fact **I am one of the rare people that actually listen to any genre of music**
 
