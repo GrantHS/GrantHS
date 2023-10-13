@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I am one of the rare people that actually listen to any genre of music**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
