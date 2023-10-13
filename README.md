@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
-- 🌱 I’m currently learning **Salesforce, C#, UML, and Microsoft Project**
+- 🌱 I’m currently learning **Google Play Publishing, Portfolio Management, and PC Game development**
 
 - 👨‍💻 All of my projects are available at [https://grantscagdeportfolio.blogspot.com/](https://grantscagdeportfolio.blogspot.com/)
 
@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **6nohx1@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FvL9vftahG43D0izZJ6T3urRmM4TsNWeUk5MFLUhn2Y/edit?usp=sharing](https://docs.google.com/document/d/1FvL9vftahG43D0izZJ6T3urRmM4TsNWeUk5MFLUhn2Y/edit?usp=sharing)
+- 📄 Know about my experiences [[https://docs.google.com/document/d/1FvL9vftahG43D0izZJ6T3urRmM4TsNWeUk5MFLUhn2Y/edit?usp=sharing](https://docs.google.com/document/d/1r_MVm4xiGrvHaxzUe4GBc9_KB9-oMyO9bOjG51-JG4o/edit?usp=sharing)]
 
-- ⚡ Fun fact **My people skills are unique but highly affective!**
+- ⚡ Fun fact **I am one of the rare people that actually listen to any genre of music**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
