@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Systems Design and Procedural Animation**
 
-- 👨‍💻 All of my projects are available at [https://grantscagdeportfolio.blogspot.com/](https://grantscagdeportfolio.blogspot.com/)
+- 👨‍💻 All of my projects are available on [my ePortfolio](https://grantscagdeportfolio.blogspot.com/)
 
 - 💬 Ask me about **how the video game industry can positively impact society**
 
