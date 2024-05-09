@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Systems Design and Procedural Animation**
 
-- 👨‍💻 All of my projects are available on my [ePortfolio](https://grantsgdp.blogspot.com/)) or on [Itch.io](https://cagd.itch.io/sunshine-rv)
+- 👨‍💻 All of my projects are available on my [ePortfolio](https://grantsgdp.blogspot.com/) or on [Itch.io](https://cagd.itch.io/sunshine-rv)
 
 - 💬 Ask me about **how the video game industry can positively impact society**
 
