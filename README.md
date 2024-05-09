@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
-- 🌱 I’m currently learning **Systems Design**
+- 🌱 I’m currently learning **Systems Design and Procedural Animation**
 
 - 👨‍💻 All of my projects are available at [https://grantscagdeportfolio.blogspot.com/](https://grantscagdeportfolio.blogspot.com/)
 
