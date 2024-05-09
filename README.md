@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/grant--stewart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grant stewart" height="30" width="40" /></a>
-<a href="/https://grantscagdeportfolio.blogspot.com/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Blogger-Logo-2010.png" alt="https://grantscagdeportfolio.blogspot.com/" height="30" width="60" /></a>
+<a href="/https://grantscagdeportfolio.blogspot.com/" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2020/08/Blogger-Logo-2010.png" alt="https://grantscagdeportfolio.blogspot.com/" height="30" width="55" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
