@@ -1,6 +1,6 @@
 [![MasterHead](https://howwegettonext.com/wp-content/uploads/2016/04/a36cf-1bnwzbskefdo8hkzoyvutdq.gif)](https://grantscagdeportfolio.blogspot.com/)
 <h1 align="center">Hello 👋, I am Grant Stewart</h1>
-<h3 align="center">A passionate Game Developer from California</h3>
+<h3 align="center">A fresh graduate and junior systems designer from California</h3>
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
