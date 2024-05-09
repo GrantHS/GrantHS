@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Systems Design and Procedural Animation**
 
-- 👨‍💻 All of my projects are available on my [ePortfolio](https://grantscagdeportfolio.blogspot.com/) or on [Itch.io](https://cagd.itch.io/sunshine-rv)
+- 👨‍💻 All of my projects are available on my [ePortfolio](https://grantsgdp.blogspot.com/)) or on [Itch.io](https://cagd.itch.io/sunshine-rv)
 
 - 💬 Ask me about **how the video game industry can positively impact society**
 
 - 📫 How to reach me **6nohx1@gmail.com**
 
-- 📄 Know about my experiences through the link below [https://docs.google.com/document/d/1FvL9vftahG43D0izZJ6T3urRmM4TsNWeUk5MFLUhn2Y/edit?usp=sharing](https://docs.google.com/document/d/1r_MVm4xiGrvHaxzUe4GBc9_KB9-oMyO9bOjG51-JG4o/edit?usp=sharing)
+- 📄 Know about my experiences through my [resumé](https://docs.google.com/document/d/1r_MVm4xiGrvHaxzUe4GBc9_KB9-oMyO9bOjG51-JG4o/edit?usp=sharing)
 
 - ⚡ Fun fact **Despite being a senior game designer, my only other major goal is to start a (functional) family...the former seems easier**
 
