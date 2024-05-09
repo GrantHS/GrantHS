@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
-- 🌱 I’m currently learning **Google Play Publishing, Portfolio Management, and PC Game development**
+- 🌱 I’m currently learning **Systems Design**
 
 - 👨‍💻 All of my projects are available at [https://grantscagdeportfolio.blogspot.com/](https://grantscagdeportfolio.blogspot.com/)
 
@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences through the link below [https://docs.google.com/document/d/1FvL9vftahG43D0izZJ6T3urRmM4TsNWeUk5MFLUhn2Y/edit?usp=sharing](https://docs.google.com/document/d/1r_MVm4xiGrvHaxzUe4GBc9_KB9-oMyO9bOjG51-JG4o/edit?usp=sharing)
 
-- ⚡ Fun fact **I am one of the rare people that actually listen to any genre of music**
+- ⚡ Fun fact **Despite being a senior game designer, my only other major goal is to start a (functional) family...the former seems easier**
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
