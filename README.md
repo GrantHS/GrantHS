@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences through my [resumé](https://docs.google.com/document/d/1r_MVm4xiGrvHaxzUe4GBc9_KB9-oMyO9bOjG51-JG4o/edit?usp=sharing)
 
-- ⚡ Fun fact **Despite being a senior game designer, my only other major goal is to start a (functional) family...the former seems easier**
+- ⚡ Fun fact **Despite being a senior game designer, my only other major goal is to start a functional family**...the former seems easier
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
